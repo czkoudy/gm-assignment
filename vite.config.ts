@@ -4,7 +4,7 @@ import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://github.com/czkoudy/gm-assignment/',
+  base: '/gm-assignment',
   plugins: [react()],
   resolve: {
     alias: {
